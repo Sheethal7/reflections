@@ -5,3 +5,8 @@ local?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   If Git automatically updated with our local repository after every single commit, things may become public even before they are full ready.
   So, it is better if we manually pull changes when required.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Fork is a feature of GitHub used to make a copy of somebody else's repository directly to our own account.Changes can be made in GitHub or by pushing down to our local machine.
+    Clones help us replicate a repository from GitHub to our local machines.Changes can be made locally on our machine.
+    Branches are used to save a commit or a change using a label.This does not create copies of repositories.
+    Fork can be used when you wish to make changes public and clones can be used when u want to make private changes and branches can be used when you want collaborators to make changes on the same repository.
